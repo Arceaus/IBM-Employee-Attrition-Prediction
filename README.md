@@ -154,6 +154,6 @@ streamlit run app.py
 
 Aspiring Data Scientist
 
-GitHub: *(Add your GitHub profile)*
+GitHub: https://github.com/Arceaus
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: https://www.linkedin.com/in/sarthak-maurya-59b82a366/

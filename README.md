@@ -14,6 +14,50 @@ The application is built using **Logistic Regression**, provides **SHAP explaina
 
 ---
 
+## 📸 Application Preview
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 🔮 Single Employee Prediction
+
+![Prediction](screenshots/prediction.png)
+
+---
+
+### 🧠 SHAP Explainability
+
+![SHAP](screenshots/shap.png)
+
+---
+
+### 📜 Prediction History
+
+![History](screenshots/history.png)
+
+---
+
+### 📊 Bulk Prediction Dashboard
+
+![Bulk Charts](screenshots/bulk_charts.png)
+
+---
+
+### 📈 Bulk Prediction Summary
+
+![Bulk Summary](screenshots/bulk_summary.png)
+
+---
+
+### 🚨 High Risk Employees
+
+![High Risk](screenshots/high_risk.png)
+
+---
+
 ## ✨ Features
 
 - 🔮 Predict employee attrition for a single employee
